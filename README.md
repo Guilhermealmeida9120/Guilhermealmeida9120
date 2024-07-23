@@ -1,11 +1,9 @@
 ### Hi there 👋
 #Olá, me chamo Guilherme de Almeida!
 
-Atualmente trabalho como almoxarife dentro da Vale 
 <br>Estou cursando ADS - Analise e Desenvolvimento de Sistemas
 <br>Tambem estou cursando HTML5 e CSS3.
-<br>Tenho experiencia trabalhando como TI em varias pequenas empresas
-<br>Busco aprender cada dia mais e se tornar um grande programador.
+<br>Busco aprender cada dia mais e se tornar um grande profissional de TI.
 
 
 <!--
